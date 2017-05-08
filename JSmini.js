@@ -33,7 +33,7 @@ console.log(climatechange[0][0] + " " + climatechange[1][2] + " "+ "are" + " " +
 console.log(climatechange[0][1] + " " + "cups" + " " + "are" + " " + climatechange[1][1]); 
 
 
-// check if var is less than 100
+check if var is less than 100
 
 var x = 117
 
@@ -49,7 +49,7 @@ if ( x >100 ){
 
 // name function 
 
-// option 1
+option 1
 
 function person(firstName,lastName) {
 		return alert (firstName + " " + lastName)
@@ -59,7 +59,7 @@ function person(firstName,lastName) {
 var result  = person("Dana", "Uchto");
 
 
-// option 2 
+option 2 
 
 var firstName = prompt("Please enter your name",);
 var lastName = prompt("Please enter your last name",);
@@ -88,8 +88,8 @@ function openGate(gateNum){
 
 }
 
-// openGate(1)
-openGate(2)
+openGate(1)
+// openGate(2)
 // openGate(3)   
 
 
